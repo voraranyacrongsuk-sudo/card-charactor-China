@@ -14,3 +14,5 @@
 ## การ์ดนักฆ่า
 <img width="650" height="1007" alt="Add a heading (3)" src="https://github.com/user-attachments/assets/6f42d859-e7fc-4446-b579-00d640183714" />
 
+## การ์ดผู้ปลุกวิญญาณ
+<img width="650" height="1007" alt="Add a heading (4)" src="https://github.com/user-attachments/assets/8d54c118-4ff1-4d74-a38a-c4546af95077" />
