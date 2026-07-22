@@ -10,3 +10,7 @@
 
 ## การ์ดนักธนู
 <img width="650" height="1007" alt="Add a heading (2)" src="https://github.com/user-attachments/assets/6d4954f3-b3fc-4d42-a3fd-886798efcc6a" />
+
+## การ์ดนักฆ่า
+<img width="650" height="1007" alt="Add a heading (3)" src="https://github.com/user-attachments/assets/6f42d859-e7fc-4446-b579-00d640183714" />
+
